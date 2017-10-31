@@ -8,20 +8,20 @@
 
 ## INGREDIENTS
 
-1 tablespoon **canola oil**  
-1/2 **onion**, diced  
-2 stalks **celery**, diced  
-1 **carrot**, peeled and diced  
-2 cloves **garlic**, chopped  
-1 teaspoon dried **oregano**  
-1 teaspoon dried **marjoram**  
-1/2 teaspoon **fennel seeds**  
-2 pounds **ground dark turkey**  
-1 cup **cauliflower rice**  
-2 **eggs**  
-3 splashes **fish sauce**  
-**Salt and pepper**, to taste  
-1/2 cup [**prepared marinara sauce**]("./marinara_sauce.md")
+1 tablespoon **canola oil**<br>
+1/2 **onion**, diced<br>
+2 stalks **celery**, diced<br>
+1 **carrot**, peeled and diced<br>
+2 cloves **garlic**, chopped<br>
+1 teaspoon dried **oregano**<br> 
+1 teaspoon dried **marjoram**<br>
+1/2 teaspoon **fennel seeds**<br>
+2 pounds **ground dark turkey**<br>
+1 cup **cauliflower rice**<br>
+2 **eggs**<br>
+3 splashes **fish sauce**<br>
+**Salt and pepper**, to taste<br>
+1/2 cup [**prepared marinara sauce**](./marinara_sauce.md)<br>
 
 ## DIRECTIONS
 
