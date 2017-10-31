@@ -17,11 +17,11 @@
 1 teaspoon dried **marjoram**  
 1/2 teaspoon **fennel seeds**  
 2 pounds **ground dark turkey**  
-1 cup **dried breadcrumbs**  
+1 cup **cauliflower rice**  
 2 **eggs**  
-3 splashes **Worcestershire sauce**  
+3 splashes **fish sauce**  
 **Salt and pepper**, to taste  
-1/2 cup **prepared marinara sauce**
+1/2 cup [**prepared marinara sauce**]("./marinara_sauce.md")
 
 ## DIRECTIONS
 
