@@ -2,7 +2,7 @@
 
 **Tags:** Italian, marinara
 
-## Ingredients (ul list)
+## Ingredients 
 
 * 1 can (28oz) **crushed tomatoes**
 * 10 **roasted garlic cloves**, can just buy pre-roasted garlic
