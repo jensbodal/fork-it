@@ -4,7 +4,8 @@
 * favorites
 * go to meals, quick meals, fancy dinner party meal
 * add time to completion
-
+* ingredient search, advanced search
+* short expressive recipes
 
 
 ```
