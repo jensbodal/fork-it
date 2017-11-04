@@ -14,7 +14,7 @@
 * 1 tbsp **majoram**, can substitute 3 tbsp chopped basil
 
 
-## DIRECTIONS
+## Directions
 
 (optional) Stir fry garlic with chili flakes and garlic cloves, add majoram.
 
