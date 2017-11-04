@@ -6,7 +6,7 @@
 
 **Tags:** Corn-free, Dairy-free, Peanut-free, Soy-free, Tree nut-free, Turkey, Meatloaf
 
-## INGREDIENTS
+## Ingredients
 
 1 tablespoon **canola oil**<br>
 1/2 **onion**, diced<br>
@@ -23,7 +23,7 @@
 **Salt and pepper**, to taste<br>
 1/2 cup [**prepared marinara sauce**](./marinara_sauce.md)<br>
 
-## DIRECTIONS
+## Directions
 
 Preheat oven to 350° F. Lightly grease a loaf pan.
 
