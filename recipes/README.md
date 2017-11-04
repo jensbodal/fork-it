@@ -1,6 +1,11 @@
 * how to format ingredient substitutes
 * adding comments, ratings, tags, having source vs no source, optional steps
 * loosely opinionated
+* favorites
+* go to meals, quick meals, fancy dinner party meal
+* add time to completion
+
+
 
 ```
 line.find(',').first() = instructions
