@@ -9,7 +9,7 @@
 * 4 eggs
 * 1/4 cup sugar
 * 1/2 tsp salt
-* 1/4 c
+* 2 tbsp butter (1/4 of a stick), melted
 * 1/2 tsp vanilla extract
 * flour
 * milk
@@ -18,9 +18,9 @@
 
 1. Beat eggs with sugar
 2. Add 2 cups of flour (a little at a time) and mix
-3. Add () cups milk and mix, batter should be very thin
-4. Add () cups flour and mix, batter should be very thick again like in the 2nd step
-5. Add () cups of milk and mix, batter should be the consistency of cream
+3. Add 3 cups milk and mix, batter should be very thin
+4. Add 2 cups flour and mix, batter should be very thick again like in the 2nd step
+5. Add 2 cups of milk and mix, batter should be the consistency of cream
 6. Add salt, melted butter, and vanilla extract
 7. Fry in butter (best tasting) or greased pan
 
