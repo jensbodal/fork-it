@@ -11,8 +11,8 @@
 * 1/2 tsp salt
 * 2 tbsp butter (1/4 of a stick), melted
 * 1/2 tsp vanilla extract
-* flour
-* milk
+* 4 cups flour
+* 5 cups milk
 
 ## Directions
 
