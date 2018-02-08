@@ -17,7 +17,7 @@
 * 2 tbsp **apple cider vinegar**
 * 1 **onion**, sliced
 * 3 **anaheim peppers**
-* 3 **pablano peppers**
+* 3 **poblano peppers**
 * 4 dried **ancho chilis**
 * 2 **bell pepper**, 
 * 4 clove **garlic**
