@@ -1,6 +1,6 @@
 # Chili Con Carne
 
-[[Serious Eats]](http://www.seriouseats.com/recipes/2011/11/real-texas-chili-con-carne.html)
+[[source]](http://www.seriouseats.com/recipes/2011/11/real-texas-chili-con-carne.html)
 
 **Serves:** 10 
 
