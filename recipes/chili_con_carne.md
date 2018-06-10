@@ -16,10 +16,10 @@
 * 2 tbsp **fish sauce**
 * 2 tbsp **apple cider vinegar**
 * 1 **onion**, sliced
-* 3 **anaheim peppers**
-* 3 **poblano peppers**
+* 2 lb **anaheim peppers**
+* 2 lb **poblano peppers**
 * 4 dried **ancho chilis**
-* 2 **bell pepper**, 
+* 2 **bell pepper** (optional), 
 * 4 clove **garlic**
 * 32 oz **chicken stock**
 
@@ -33,3 +33,5 @@
 * Blend everything up
 * Slice meat into 1 inch chunks
 * Add meat, spices, fish sauce, and apple cider vinegar and simmer for about 2 hours
+
+*if too spicy add some canned crushed tomatoes to the sauce*
