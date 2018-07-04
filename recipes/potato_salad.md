@@ -9,39 +9,37 @@
 ## Ingredients
 
 **Prep**
-Boil 3 eggs, set aside
+* Boil 3 eggs, set aside
 
 **Prep** 
-4.00 lbs Russet Potatoes (peeled, 1" chunks)
-8.00 cup water (2 quarts)
-2.00 tablespoons sugar
-2.00 tablespoons kosher salt
-2.00 tablespoons vinegar
-
-
+* 4.00 lbs Russet Potatoes (peeled, 1" chunks)
+* 8.00 cup water (2 quarts)
+* 2.00 tablespoons sugar
+* 2.00 tablespoons kosher salt
+* 2.00 tablespoons vinegar
 
 **Salad**
-3.00 ribs celery (finely diced), you might want more or less celery for texture/flavor
-0.50 cup red onion (finely diced)
-0.50 cup scallions (finely diced)
-0.25 cup parsley (finely chopped)
-0.25 cup pickles (finely diced)
-0.25 cup dill (finely chopped)
-0.25 cup chopped bacon (optional, I use fresh bacon bits from store)
+* 3.00 ribs celery (finely diced), you might want more or less celery for texture/flavor
+* 0.50 cup red onion (finely diced)
+* 0.50 cup scallions (finely diced)
+* 0.25 cup parsley (finely chopped)
+* 0.25 cup pickles (finely diced)
+* 0.25 cup dill (finely chopped)
+* 0.25 cup chopped bacon (optional, I use fresh bacon bits from store)
 
 **Dressing (French)**
-2.00 tbsp mustard
-1.00 cups mayonnaise 
-fresh ground pepper 
+* 2.00 tbsp mustard
+* 1.00 cups mayonnaise 
+* fresh ground pepper 
 
 **Dressing (German)**
-0.25 cup olive oil
-2.00 tbsp vinegar 
-2.00 tbsp mustard
-1.00 small shallot
-3.00 Garlic Cloves (can cook these in the potato water)
-0.25 cup cooking water
-fresh ground pepper
+* 0.25 cup olive oil
+* 2.00 tbsp vinegar 
+* 2.00 tbsp mustard
+* 1.00 small shallot
+* 3.00 Garlic Cloves (can cook these in the potato water)
+* 0.25 cup cooking water
+* fresh ground pepper
 
 ## Directions
 
