@@ -16,6 +16,8 @@
 * 2.00 oz olive oil
 * 1.00 tbsp spice rub
 
+(marinade in half the amount, then add 1 tbsp spice rub + 1/2 marinade after grilling when cooking on stove)
+
 ### spice rub
 
 (yields 6.33 tbsp)
