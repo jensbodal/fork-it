@@ -18,6 +18,8 @@
 
 ### spice rub
 
+(yields 6.33 tbsp)
+
 * 1.00 tbsp coriander
 * 1.00 tbsp cumin
 * 1.00 tbsp paprika
@@ -26,7 +28,7 @@
 * 1.00 tsp cloves
 * 1.00 tsp nutmeg
 * 1.00 tsp pepper
-* 1.00 tsp aumac
+* 1.00 tsp sumac
 * 1.00 tsp turmeric
 * 1.00 tsp allspice
 * 1.00 tsp cayenne
