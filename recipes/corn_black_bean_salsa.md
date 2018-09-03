@@ -10,7 +10,7 @@
 
 * 4 tbsp olive oil
 * 2 ears of corn
-* 4 red bell peppers(can mix and match between red, yellow, orange, and green)
+* 4 red bell peppers (can mix and match between red, yellow, orange, and green)
 * 1-2 chili peppers (optional - you can choose the type and spice, this will basically determine if your salsa is spicy or not. I usually use 1 or 2 jalepenos)
 * 4 medium tomatoes, diced
 * 2 medium red onions, chopped fine
