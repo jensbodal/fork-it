@@ -15,6 +15,8 @@
 * 3 roasted garlic cloves, minced
 * 0.25 cup olive oil
 * 1 tbsp spice rub
+* 1 tsp salt
+* 1 medium white onion
 
 (marinade in half the amount, then add 1 tbsp spice rub + 1/2 marinade after grilling when cooking on stove)
 
