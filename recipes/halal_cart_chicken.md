@@ -22,25 +22,25 @@
 
 (yields 6.33 tbsp)
 
-* 1.00 tbsp coriander
-* 1.00 tbsp cumin
-* 1.00 tbsp paprika
-* 1.00 tsp cardamom
-* 1.00 tsp cinnamon
-* 1.00 tsp cloves
-* 1.00 tsp nutmeg
-* 1.00 tsp pepper
-* 1.00 tsp sumac
-* 1.00 tsp turmeric
-* 1.00 tsp allspice
-* 1.00 tsp cayenne
-* 1.00 tsp ginger
+* 1 tbsp coriander
+* 1 tbsp cumin
+* 1 tbsp paprika
+* 1 tsp cardamom
+* 1 tsp cinnamon
+* 1 tsp cloves
+* 1 tsp nutmeg
+* 1 tsp pepper
+* 1 tsp sumac
+* 1 tsp turmeric
+* 1 tsp allspice
+* 1 tsp cayenne
+* 1 tsp ginger
 
 ### rice
 
-* 8 oz miracle rice / cauliflower rice
-* 0.50 tsp tumeric
-* 0.50 tsp cumin
+* 16 oz miracle rice / cauliflower rice
+* 1 tsp tumeric
+* 1 tsp cumin
 
 ### serve with
 * garlic sauce
