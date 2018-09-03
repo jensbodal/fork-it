@@ -1,6 +1,6 @@
 # Halal Cart Chicken
 
-[[[influence-1]](https://www.seriouseats.com/recipes/2011/12/serious-eats-halal-cart-style-chicken-and-rice-white-sauce-recipe.html), [[influence-2]](https://www.reddit.com/r/seriouseats/comments/86zdx9/dont_make_the_halal_cart_chicken_and_rice/)]
+[[influence-1]](https://www.seriouseats.com/recipes/2011/12/serious-eats-halal-cart-style-chicken-and-rice-white-sauce-recipe.html), [[influence-2]](https://www.reddit.com/r/seriouseats/comments/86zdx9/dont_make_the_halal_cart_chicken_and_rice/)
 
 **Serves:** 2
 
