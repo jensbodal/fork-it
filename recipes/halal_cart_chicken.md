@@ -18,7 +18,7 @@
 * 1 tsp salt
 * 1 medium white onion
 
-(marinade in half the amount, then add 1 tbsp spice rub + 1/2 marinade after grilling when cooking on stove)
+(marinade in half the amount for 1-4 hours, then add 1 tbsp spice rub + 1/2 marinade after grilling when cooking on stove)
 
 ### spice rub
 
