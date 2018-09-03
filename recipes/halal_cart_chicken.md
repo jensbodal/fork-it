@@ -12,8 +12,8 @@
 
 * 2 lb chicken boneless skinless chicken thighs
 * 2 tbsp lemon juice
-* 3 roasted garlic cloves
-* 2 oz olive oil
+* 3 roasted garlic cloves, minced
+* 0.25 cup olive oil
 * 1 tbsp spice rub
 
 (marinade in half the amount, then add 1 tbsp spice rub + 1/2 marinade after grilling when cooking on stove)
