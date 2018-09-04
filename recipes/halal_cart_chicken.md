@@ -8,17 +8,16 @@
 
 ## Ingredients
 
+* 2 lb chicken boneless skinless chicken thighs
+* 1 medium white onion
+
 ### marinade 
 
-* 2 lb chicken boneless skinless chicken thighs
 * 2 tbsp lemon juice
 * 3 roasted garlic cloves, minced
 * 0.25 cup olive oil
 * 1 tbsp spice rub
 * 1 tsp salt
-* 1 medium white onion
-
-(marinade in half the amount for 1-4 hours, then add 1 tbsp spice rub + 1/2 marinade after grilling when cooking on stove)
 
 ### spice rub
 
@@ -49,3 +48,11 @@
 * harissa hot sauce
 
 ## Directions
+
+* combine 1/2 marinade + 1 tbsp spice rub + half of onion + chicken
+* combine 1/2 marinade + 1 tbsp spice rub + half of onion and set aside
+* marinade 1-4 hours
+* grill on high heat
+* chop chicken
+* mix chopped chicken with set aside mix
+* fry in pan
