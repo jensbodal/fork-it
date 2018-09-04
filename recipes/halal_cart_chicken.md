@@ -49,8 +49,8 @@
 
 ## Directions
 
-* combine 1/2 marinade + 1 tbsp spice rub + half of onion + chicken
-* combine 1/2 marinade + 1 tbsp spice rub + half of onion and set aside
+* combine 1/2 marinade + half of onion + chicken
+* combine 1/2 marinade + 1 tbsp spice rub + half of onion and set aside (2 tbsp spice rub in total is used for this recipe)
 * marinade 1-4 hours
 * grill on high heat
 * chop chicken
