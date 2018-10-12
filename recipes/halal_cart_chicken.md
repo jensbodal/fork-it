@@ -12,7 +12,7 @@
 
 ### marinade 
 
-* 2 tbsp lemon juice
+* 2 tbsp lemon juice, about 1 medium lemon
 * 3 roasted garlic cloves, minced
 * 0.25 cup olive oil
 * 1 tbsp spice rub
