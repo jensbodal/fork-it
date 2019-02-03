@@ -18,7 +18,7 @@
 
 ### spice rub
 
-(yields 2 tbsp)
+*(yields 2 tbsp)*
 
 * 1.00 tsp cumin
 * 0.75 tsp smoked paprika, (can swap either more or less chili powder so that there's 2 parts total of paprikia + chili powder)
@@ -32,10 +32,10 @@
 * 0.50 tsp kosher salt
 * 0.25 tsp chili powder
 
-(yields 4 tbsp)
+*(yields 4 tbsp)*
 
 * 2.0 tsp cumin
-* 1.5 tsp smoked paprika, (can swap either more or less chili powder so that there's 2 parts total of paprikia + chili powder)
+* 1.5 tsp smoked paprika, *can swap either more or less chili powder so that there's 2 parts total of paprikia + chili powder*
 * 1.0 tsp thyme
 * 1.0 tsp cilantro/coriander
 * 1.0 tsp onion powder
@@ -46,7 +46,7 @@
 * 1.0 tsp kosher salt
 * 0.5 tsp chili powder
 
-(yields 12 tbsp)
+*(yields 12 tbsp)*
 
 * 2 tbsp cumin
 * 1.5 tbsp smoked paprika, (can swap either more or less chili powder so that there's 2 parts total of paprikia + chili powder)
