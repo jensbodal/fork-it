@@ -16,7 +16,7 @@ Sweet Potato Rounds
 * 1 shallot, minced
 
 ### Candied Bacon
-* 8 oz bacon
+* 4 oz bacon
 * brown sugar
 * black pepper
 
